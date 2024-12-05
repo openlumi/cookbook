@@ -10,9 +10,7 @@ software:
 
 **1)** Скачать нужную прошивку
 
-* Если планируете прошить чип zigbee для использования zigbee2mqtt, то скачиваем прошивку [здесь](https://github.com/openlumi/JN-ZigbeeNodeControlBridge-firmware/releases)
-
-* Если планируете прошить чип zigbee для использования ZHA, то скачиваем прошивку [здесь](https://github.com/openlumi/ZiGate/releases)
+* Скачиваем последнюю прошивку [здесь](https://github.com/openlumi/ZiGate/releases)
 
 Обратите внимание на именование прошивок для zigbee2mqtt, где:
 * **8ede\3535\f0dd** - версия прошивки
